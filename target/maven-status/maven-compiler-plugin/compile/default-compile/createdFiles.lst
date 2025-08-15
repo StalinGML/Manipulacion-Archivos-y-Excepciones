@@ -1,0 +1,4 @@
+com\mycompany\manipulacionarchivosyexcepciones\Main.class
+com\mycompany\manipulacionarchivosyexcepciones\ValidadorArchivo.class
+com\mycompany\manipulacionarchivosyexcepciones\ArchivoVacioException.class
+com\mycompany\manipulacionarchivosyexcepciones\GestorDeArchivo.class
